@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46ff968c-9aea-48c6-8943-836f7ca1a8f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/.idea/monolithic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/QuizappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/dao/QuestionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/dao/QuizDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/model/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/model/QuestionWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/model/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/model/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/service/QuestionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/java/com/project/quizapp/service/QuizService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/src/test/java/com/project/quizapp/QuizappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/QuizappApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/controller/QuestionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/controller/QuizController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/dao/QuestionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/dao/QuizDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/model/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/model/QuestionWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/model/Quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/model/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/service/QuestionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz Application/monolithic/quizapp/target/classes/com/project/quizapp/service/QuizService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/com/project/apigateway/ApiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/test/java/com/project/apigateway/ApiGatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/QuestionServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/dao/QuestionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/model/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/model/QuestionWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/model/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/java/com/project/questionservice/service/QuestionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question-service/src/test/java/com/project/questionservice/QuestionServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/QuizServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/dao/QuizDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/feign/QuizInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/model/QuestionWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/model/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/model/QuizDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/model/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/java/com/project/quizservice/service/QuizService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-service/src/test/java/com/project/quizservice/QuizServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/dao/QuestionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/dao/QuizDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/model/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/model/QuestionWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/model/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/model/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizapp/src/main/java/com/project/quizapp/service/QuestionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/src/main/java/com/project/serviceregistry/ServiceRegistryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/src/test/java/com/project/serviceregistry/ServiceRegistryApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2g8Fn2QmDmK7wfIxTbhJWptZc6K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ff968c-9aea-48c6-8943-836f7ca1a8f4" name="Changes" comment="" />
+      <created>1715071463454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715071463454</updated>
+    </task>
+    <servers />
+  </component>
+</project>
